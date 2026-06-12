@@ -22,7 +22,7 @@
 - **Tech Stack**: React + Vite + TypeScript
 - **Summary**: It is an AI analysis web service that finds my animal image.
 
-### 📊 [Project 3: Songvoca](https://github.com/Kimhyewon0621/songvoca-backend)
+### 🎵 [Project 3: Songvoca](https://github.com/Kimhyewon0621/songvoca-backend)
 - **Tech Stack**: JS, postgreSQL 
 - **Summary**: It's a Korean vocabulary learning web app through the songs you love.
 - **Deployment**: https://songvoca-fe.vercel.app/
