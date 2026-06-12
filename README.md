@@ -6,7 +6,7 @@
 
 ## 🧰 Tech Stack
 
-- 💻 **Languages**: Java, Python, JS  
+- 💻 **Languages**: Java, Python, JS, HTML, CSS 
 - 🛢️ **Databases**: MySQL  
 - ⚙️ **Tools & Platforms**: Git, GitHub 
 
