@@ -88,10 +88,6 @@ I like turning ideas into working products — from a timetable solver in Java t
 > Item rental web app demo for my college — umbrellas, mats and more, with QR rental and return reminders. Opens from a link, no app store needed.
 - **Stack**: HTML, JavaScript, PWA (Service Worker, Web App Manifest)
 
-### 🚶 프로외출러 · Campus IT Service Contest · 🏅 Bronze Prize
-> Campus IT service idea that won the Bronze Prize at the university's IT service contest.
-- **My part (Design)**: Figma design and prototype
-
 ### ⏰ [UniTime-Solver](https://github.com/Kimhyewon0621/UniTime-Solver) · `2025.11 ~ 12`
 > Java console app that generates every valid university timetable from your required and optional courses.
 - **Stack**: Java 17, JUnit 5, GitHub Actions
