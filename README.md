@@ -49,7 +49,7 @@ I like turning ideas into working products — from a timetable solver in Java t
 - **Stack**: Kotlin, Android (in-vehicle), Next.js, Neon Postgres
 - **My part (Team Lead)**: Service planning and design, team management
 
-### 🛡️ Baromi · `2026.11` · IT Service Idea Contest
+### 🛡️ [Baromi](https://github.com/gunuzello/DarkPattern_Baromi) · `2026.11` · IT Service Idea Contest
 > Service that diagnoses dark patterns in online shopping malls.
 - **My part (Frontend)**: Frontend development and presentation
 
