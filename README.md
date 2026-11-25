@@ -44,6 +44,15 @@ I like turning ideas into working products — from a timetable solver in Java t
 
 ## 🛠️ Projects
 
+### 🚗 [CareDrive (케어드라이브)](https://github.com/arkkk224224/CareDrive-app) · `2026.11` · 현대자동차그룹 차량용 앱 개발 공모전
+> 부모님의 운전을 감시하지 않고, 정기 검사 사이에 크게 달라진 운전 패턴을 가족이 알아채 검진으로 이어지게 돕는 차량용 가족 안심 앱.
+- **Stack**: Kotlin, Android (차량용), Next.js, Neon Postgres
+- **My part (팀장)**: 서비스 기획, 디자인, 팀 운영
+
+### 🛡️ Baromi (바로미) · `2026.11` · 2026 IT 서비스 아이디어 공모전
+> 쇼핑몰의 다크패턴을 진단하는 서비스 (3인 팀).
+- **My part (Frontend)**: 프론트엔드 개발, 발표
+
 ### 🎬 [ITip](https://github.com/AnGyeongKK/ITip-mobile) · `2026.11 ~ ing`
 > AI app that analyzes YouTube videos and playlists into summaries, sections and keywords, with an AI agent you can chat with about the content.
 - **Stack**: React Native, Expo Router, TypeScript, TanStack Query
@@ -79,6 +88,9 @@ I like turning ideas into working products — from a timetable solver in Java t
 > Item rental web app demo for my college — umbrellas, mats and more, with QR rental and return reminders. Opens from a link, no app store needed.
 - **Stack**: HTML, JavaScript, PWA (Service Worker, Web App Manifest)
 
+### 🚶 프로외출러 · 교내 IT 서비스 공모전 **동상** 🏅
+- **My part**: Figma 디자인 및 프로토타입 제작
+
 ### ⏰ [UniTime-Solver](https://github.com/Kimhyewon0621/UniTime-Solver) · `2025.11 ~ 12`
 > Java console app that generates every valid university timetable from your required and optional courses.
 - **Stack**: Java 17, JUnit 5, GitHub Actions
@@ -89,6 +101,8 @@ I like turning ideas into working products — from a timetable solver in Java t
 ## 🌱 Activities
 
 - 🦁 **LIKELION SeoulTech** — team projects and hackathons
+- 🏛️ **학과 학생회 (3년)** — 기획부원 → 기획부장 (학과 행사 기획·운영)
+- 🤝 **인액터스 (연합동아리)** — 사회문제 해결 프로젝트 (온기락, 인견)
 - 📚 **Data Structure Study** — [study group](https://github.com/mmuhunn/DataStructureStudy), 2025
 
 ---
